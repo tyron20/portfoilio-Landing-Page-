@@ -31,7 +31,8 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    color: #606163;
+    color: #1a1a1b;
+    font-size: 1.2em;
 }
 nav ul li a:hover{
     color: #ff4321;
@@ -52,18 +53,19 @@ nav ul li a:hover{
     border: 1px solid #ff4321;
 }
 .About{
-    margin-left: 20px;
-    margin-top: 40px;
+    margin-left: 10%;
+    margin-top: 10%;
+    height: 100vh;
 }
 .About h1{
     font-size: 20px;
-    color: #444242;
+    color: #1f1e1e;
 }
 .About h1 spam{
     color: #ff4321;
 }
 .About p{
-    color: #606163;
+    color: #39393a;
     line-height: 22px;
     margin-top: 10px;
     margin-bottom: 30px;
@@ -85,4 +87,16 @@ nav ul li a:hover{
 }
 .anime-img:hover .anime-img{
     bottom: 40px;
+}
+
+/* about section start */
+#about-me {
+    text-align: center;
+    height: 100vh;
+    padding: 40px;
+    background-color: #7e6060;
+}
+
+#about-me p {
+    margin: 10%;
 }
