@@ -9,7 +9,7 @@ Personal portfolio website.
 - [Installation](#setup)
 
 ## Description
-
+personal portfolio using github pages
 
 ## Setup
 - Installing this project inyour machine use:
